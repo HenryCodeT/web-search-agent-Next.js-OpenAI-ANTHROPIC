@@ -233,6 +233,8 @@ Send a chat message and receive an AI response.
   "searchQuery": "the search query used"
 }
 ```
+## UI view 
+![Web Search Agent UI](public/image.png)
 
 ## 🔒 Security Notes
 
